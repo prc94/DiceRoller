@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="dice_img_desc">Изображение игрального кубика</string>
+    <string name="roll">Бросить</string>
+    <string name="same_result">Тот же результат</string>
+</resources>
